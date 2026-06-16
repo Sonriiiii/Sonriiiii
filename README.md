@@ -1,5 +1,18 @@
-## Hi there 👋
+# Hola, soy Rodrigo 👋
 
+## Estudiante de programación
+
+Actualmente aprendiendo:
+
+- Git
+- GitHub
+- HTML
+- CSS
+- JavaScript
+
+## Contacto
+
+Email: rodrigofarias262@gmail.com
 <!--
 **Sonriiiii/Sonriiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
